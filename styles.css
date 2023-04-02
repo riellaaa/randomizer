@@ -1,0 +1,42 @@
+body {
+    font-family: monospace;
+    background-color: #fff0f3;
+}
+
+h1 {
+    width: 30%;
+    text-align: center;
+    margin: 30px auto;
+    padding: 10px;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+#display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.days {
+    background-color: #ffc2d1;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    margin: 10px 5px;
+    border-radius: 20px;
+}
+
+hr {
+    border-color: #fb6f92;
+}
+
+h3{
+    text-align: center;
+    color: #fb6f92;
+    font-weight: 5;
+}
+
